@@ -1,4 +1,4 @@
-                                              Jobayar Alom (DE-03)
+                                                 Jobayar Alom
                                             Data Analysis using SQL
                                               The noaacdo database
 
